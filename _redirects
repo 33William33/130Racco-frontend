@@ -1,0 +1,2 @@
+# SPA fallback for Netlify/Cloudflare-style hosting; serve existing assets normally.
+/* /index.html 200
